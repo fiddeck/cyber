@@ -1,0 +1,3 @@
+#include "resource.h"
+
+1 RT_MANIFEST "WindowsProject1.manifest"
