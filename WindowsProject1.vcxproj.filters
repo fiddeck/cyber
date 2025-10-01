@@ -29,7 +29,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="WindowsProject1.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
@@ -37,7 +37,7 @@
     <ResourceCompile Include="WindowsProject1.rc">
       <Filter>资源文件</Filter>
     </ResourceCompile>
-    <ResourceCompile Include="rc WindowsProject1.rc">
+    <ResourceCompile Include="cyber.rc">
       <Filter>资源文件</Filter>
     </ResourceCompile>
   </ItemGroup>
@@ -50,6 +50,6 @@
     </Image>
   </ItemGroup>
   <ItemGroup>
-    <Manifest Include="WindowsProject1.manifest" />
+    <Manifest Include="cyber.manifest" />
   </ItemGroup>
 </Project>
