@@ -27,7 +27,7 @@ int WINAPI WinMain(
 
     int Button = 0;
 
-    // 初始状态（游戏性增强）
+    // 初始状态
     int score = 0;
     int energy = 100;
     int day = 1;
@@ -224,3 +224,4 @@ int WINAPI WinMain(
 
     return 0;
 }
+//https://www.bilibili.com/video/BV1F2Ktz7EyC
