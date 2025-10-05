@@ -11,4 +11,5 @@
 ### 温馨提示 Attention
 GUI窗口基于Windows10及以上版本的自带的公共控件库
 
-## 下载 Download
+## 下载 
+前往Release即可下载此内容
